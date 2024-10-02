@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
 import yfinance as yf
+import sklearn 
 
 
 start_date = '2010-01-01'
